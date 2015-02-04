@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
   s.version          = "1.5.0"
   s.summary          = "WeChatSDK"
   s.description      = "WeChat SDK"
-  s.homepage         = "https://github.com/WeChatSDK/WeChatSDK"
+  s.homepage         = "https://github.com/chuangyi0128/WeChatSDK"
   s.license          = 'MIT'
   s.author           = { "SongLi" => "chuangyi0128@gmail.com" }
-  s.source           = { :git => "https://github.com/WeChatSDK/WeChatSDK.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/chuangyi0128/WeChatSDK.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '5.0'
   s.requires_arc = true
