@@ -1,1576 +1,669 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>00FE4AAC2C8AC703AFC51079</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A7EBC637E6D6927BD399FA97</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>032BC559DEDA6EC51C8897DD</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>040863D2357F8F2AC1BACB26</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6ED4ADCFA0376440CF9061CB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>09AC9133696854FBFDD5D570</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK-WeChatSDK.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A26A547CD2B093F09DEB2D5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F221C0A7248DAC7798E7143B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A36558D92D58A25EF2F77B4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D6399A75E354AC478C74F928</string>
-				<string>1E6A77DB8084F9B9AF8D3277</string>
-				<string>EA35CEB813C94E227A1E3914</string>
-				<string>F2C31495F3D053476B036194</string>
-				<string>731D57733B8E117A66BF1D53</string>
-				<string>10516506A81A573760EF3D58</string>
-				<string>0D6FC9522A79F96A7DFF2F76</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-WeChatSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0D10F2F35AC46D5537C7E594</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WXApi.h</string>
-			<key>path</key>
-			<string>WeChatSDK/WXApi.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0D6FC9522A79F96A7DFF2F76</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0E1FF6BB8F99D9EC9C4561C6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0EE341B14F003B996B6F8268</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WXApiObject.h</string>
-			<key>path</key>
-			<string>WeChatSDK/WXApiObject.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>10516506A81A573760EF3D58</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>10C68FBF8CFE1DA3A31AC011</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5C1ACCD187657877B14CA90E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>12A72FE57B81A553B2DB6974</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>10516506A81A573760EF3D58</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>13413ADFD99E3AFC7068CF91</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>6C1EBE0B49308A2390507A30</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>9DBFE687C79FFD122AA10B3B</string>
-			<key>remoteInfo</key>
-			<string>Pods-WeChatSDK-WeChatSDK</string>
-		</dict>
-		<key>172C8ECBA59D5BB8C5ACC107</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>C48193F4EEB185A0174BAF36</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>1AB9BD50378F5D761A14A258</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>NO</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>1B6A8374C6B372C1147BC4DA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>032BC559DEDA6EC51C8897DD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1E6A77DB8084F9B9AF8D3277</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2480317E641D68BA189D5E51</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>335FFB7653EF6FA8A44D2910</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-WeChatSDK/Pods-Tests-WeChatSDK-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>2732CD2AC98C40B6203877CE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>371EF6A6823C401F5658A831</string>
-				<string>B9B708080078298F7FC862FD</string>
-				<string>C7ABFD88F9B8F82AB4B6314A</string>
-				<string>B2B13434D243D2EDF5043039</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>335FFB7653EF6FA8A44D2910</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests-WeChatSDK-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>371EF6A6823C401F5658A831</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>3BAE6A2AC4E09D7912D942AC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>032BC559DEDA6EC51C8897DD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3DEFDAAC02554354324E6FD6</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>2480317E641D68BA189D5E51</string>
-				<string>D373650080F5BCFDD76223A7</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>3E6C80407BF9AEACFC68AEC4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK-WeChatSDK-prefix.pch</string>
-			<key>path</key>
-			<string>../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>43E4A89973F7144BEE924ED1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK-WeChatSDK-dummy.m</string>
-			<key>path</key>
-			<string>../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E04CD9B7C3E148B88BAEA2A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>9DBFE687C79FFD122AA10B3B</string>
-			<key>targetProxy</key>
-			<string>13413ADFD99E3AFC7068CF91</string>
-		</dict>
-		<key>4FEFB538CF53F883518C6DE8</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>99C9F83C10D7BE135E53EA50</string>
-			<key>buildPhases</key>
-			<array>
-				<string>C941358255CB063073BDB360</string>
-				<string>00FE4AAC2C8AC703AFC51079</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>4E04CD9B7C3E148B88BAEA2A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK</string>
-			<key>productName</key>
-			<string>Pods-WeChatSDK</string>
-			<key>productReference</key>
-			<string>C7ABFD88F9B8F82AB4B6314A</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>5492CEDFD59E13B46E66C268</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>6D93591309BE064AC5EE6028</string>
-			<key>buildPhases</key>
-			<array>
-				<string>172C8ECBA59D5BB8C5ACC107</string>
-				<string>719AEAD3064ED443895234D1</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>7F91B2458E90F0555B38BFFF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>productName</key>
-			<string>Pods-Tests</string>
-			<key>productReference</key>
-			<string>371EF6A6823C401F5658A831</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>5B7A7435A79A0BDD0F5D06F0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5C1ACCD187657877B14CA90E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0D10F2F35AC46D5537C7E594</string>
-				<string>0EE341B14F003B996B6F8268</string>
-				<string>F893C597BCB20A39BA33A1D7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>WeChatSDK</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6474410EAA0768C68A02D4E1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E4291242DF8A7E260FBD6CD2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>69098B49DF5DE60837761478</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>1AB9BD50378F5D761A14A258</string>
-				<string>A487CF31F9CC763EB82D5D32</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6C1EBE0B49308A2390507A30</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0510</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>69098B49DF5DE60837761478</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>E708361A127EEEBC1775971B</string>
-			<key>productRefGroup</key>
-			<string>2732CD2AC98C40B6203877CE</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>5492CEDFD59E13B46E66C268</string>
-				<string>CC67AD30A611E4C92A6A5199</string>
-				<string>4FEFB538CF53F883518C6DE8</string>
-				<string>9DBFE687C79FFD122AA10B3B</string>
-			</array>
-		</dict>
-		<key>6D93591309BE064AC5EE6028</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>EB60F1B5F74948B63B0E873B</string>
-				<string>C1CD7784181D52D60A921F42</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6ED4ADCFA0376440CF9061CB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B2F30E4CEC974FDE13C3F536</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6EE663BA3E9207E9FA8298FD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>719AEAD3064ED443895234D1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1B6A8374C6B372C1147BC4DA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>71A0AF780812AA014361A356</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>731D57733B8E117A66BF1D53</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7B4FBD5E41643F5439021A2B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BACC6F3A0AF56FC2D1DA4124</string>
-				<string>0A36558D92D58A25EF2F77B4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7C896A202F05B56C9D4B5DB0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0D10F2F35AC46D5537C7E594</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7F91B2458E90F0555B38BFFF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>CC67AD30A611E4C92A6A5199</string>
-			<key>targetProxy</key>
-			<string>C013B52EC00FAE00A21AD286</string>
-		</dict>
-		<key>7FB4033E450AAC99731B8B12</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>84120F8F3ED6634F4DB4FED7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>43E4A89973F7144BEE924ED1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>888920C99B8B4634E63F54B3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7C896A202F05B56C9D4B5DB0</string>
-				<string>FA0173D94CAB281463A42593</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>90577C602551C6B81C9C60FA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0EE341B14F003B996B6F8268</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9393ADD636BB564B95A1702A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>94B6FB926ADA8445F5DC3FC1</string>
-				<string>F6E24ECEA49E2BE2FD8DC598</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>94B6FB926ADA8445F5DC3FC1</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>BAD456B5CD23836517C2B152</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>99C9F83C10D7BE135E53EA50</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>12A72FE57B81A553B2DB6974</string>
-				<string>A2534BF1ACD365417B73E9A6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>9DBFE687C79FFD122AA10B3B</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>9393ADD636BB564B95A1702A</string>
-			<key>buildPhases</key>
-			<array>
-				<string>BDDF6ADAFCFC846EE0CB9206</string>
-				<string>C128E1EE6B7DBBD3F4657D2E</string>
-				<string>CE964FEFB22AB0BBB1683A01</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK-WeChatSDK</string>
-			<key>productName</key>
-			<string>Pods-WeChatSDK-WeChatSDK</string>
-			<key>productReference</key>
-			<string>B2B13434D243D2EDF5043039</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>A17616FE57DDA7AF05CEE871</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0D10F2F35AC46D5537C7E594</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A2534BF1ACD365417B73E9A6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0D6FC9522A79F96A7DFF2F76</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A487CF31F9CC763EB82D5D32</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>NO</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A7EBC637E6D6927BD399FA97</key>
-		<dict>
-			<key>fileRef</key>
-			<string>032BC559DEDA6EC51C8897DD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B2B13434D243D2EDF5043039</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-WeChatSDK-WeChatSDK.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>B2F30E4CEC974FDE13C3F536</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-Tests-WeChatSDK-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B9B708080078298F7FC862FD</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests-WeChatSDK.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>BACC6F3A0AF56FC2D1DA4124</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0E1FF6BB8F99D9EC9C4561C6</string>
-				<string>7FB4033E450AAC99731B8B12</string>
-				<string>71A0AF780812AA014361A356</string>
-				<string>D8E1219340BE91881678B584</string>
-				<string>5B7A7435A79A0BDD0F5D06F0</string>
-				<string>C9E04D258748E77718F5100B</string>
-				<string>CFA6529D2F17C80B610A583E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BAD456B5CD23836517C2B152</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-WeChatSDK-WeChatSDK-Private.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BDDF6ADAFCFC846EE0CB9206</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>84120F8F3ED6634F4DB4FED7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C013B52EC00FAE00A21AD286</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>6C1EBE0B49308A2390507A30</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>CC67AD30A611E4C92A6A5199</string>
-			<key>remoteInfo</key>
-			<string>Pods-Tests-WeChatSDK</string>
-		</dict>
-		<key>C128E1EE6B7DBBD3F4657D2E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3BAE6A2AC4E09D7912D942AC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C1CD7784181D52D60A921F42</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>CFA6529D2F17C80B610A583E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>C2458F1129524D1FBCAE58A3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests-WeChatSDK.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C48193F4EEB185A0174BAF36</key>
-		<dict>
-			<key>fileRef</key>
-			<string>71A0AF780812AA014361A356</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C7ABFD88F9B8F82AB4B6314A</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-WeChatSDK.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>C941358255CB063073BDB360</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F2AE1CFBDC263607CB3C98EE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C9E04D258748E77718F5100B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CC67AD30A611E4C92A6A5199</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>3DEFDAAC02554354324E6FD6</string>
-			<key>buildPhases</key>
-			<array>
-				<string>040863D2357F8F2AC1BACB26</string>
-				<string>6474410EAA0768C68A02D4E1</string>
-				<string>888920C99B8B4634E63F54B3</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests-WeChatSDK</string>
-			<key>productName</key>
-			<string>Pods-Tests-WeChatSDK</string>
-			<key>productReference</key>
-			<string>B9B708080078298F7FC862FD</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>CE964FEFB22AB0BBB1683A01</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A17616FE57DDA7AF05CEE871</string>
-				<string>90577C602551C6B81C9C60FA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>CFA6529D2F17C80B610A583E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D373650080F5BCFDD76223A7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>335FFB7653EF6FA8A44D2910</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-WeChatSDK/Pods-Tests-WeChatSDK-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>D6399A75E354AC478C74F928</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D8E1219340BE91881678B584</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-Tests-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E387799BDB715F3947F3A163</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-Tests-WeChatSDK-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E4291242DF8A7E260FBD6CD2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>032BC559DEDA6EC51C8897DD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E708361A127EEEBC1775971B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6EE663BA3E9207E9FA8298FD</string>
-				<string>10C68FBF8CFE1DA3A31AC011</string>
-				<string>0A26A547CD2B093F09DEB2D5</string>
-				<string>2732CD2AC98C40B6203877CE</string>
-				<string>7B4FBD5E41643F5439021A2B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EA35CEB813C94E227A1E3914</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EB60F1B5F74948B63B0E873B</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C9E04D258748E77718F5100B</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>F221C0A7248DAC7798E7143B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>032BC559DEDA6EC51C8897DD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F2AE1CFBDC263607CB3C98EE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EA35CEB813C94E227A1E3914</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F2C31495F3D053476B036194</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-WeChatSDK-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F6E24ECEA49E2BE2FD8DC598</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>BAD456B5CD23836517C2B152</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>F893C597BCB20A39BA33A1D7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C2458F1129524D1FBCAE58A3</string>
-				<string>335FFB7653EF6FA8A44D2910</string>
-				<string>B2F30E4CEC974FDE13C3F536</string>
-				<string>E387799BDB715F3947F3A163</string>
-				<string>09AC9133696854FBFDD5D570</string>
-				<string>BAD456B5CD23836517C2B152</string>
-				<string>43E4A89973F7144BEE924ED1</string>
-				<string>3E6C80407BF9AEACFC68AEC4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/Pods-Tests-WeChatSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FA0173D94CAB281463A42593</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0EE341B14F003B996B6F8268</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>6C1EBE0B49308A2390507A30</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		08C8A0B4750FC4AB7166BC5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02FD467873221EDF602D7C3 /* Foundation.framework */; };
+		2796B3AE264025E36B2643FF /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 743B6A40EE814B88EA1DC3BA /* Pods-Tests-dummy.m */; };
+		310CBBCC2CAE0E7D7B64F0BD /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8287A0031E25C4943AE858E6 /* SystemConfiguration.framework */; };
+		346F4C88096FD5EF5B664E82 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8287A0031E25C4943AE858E6 /* SystemConfiguration.framework */; };
+		394204DE1D0F4D4B735E5BF7 /* WXApiObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9867EDE6478BBDCA5C3C2E98 /* WXApiObject.h */; };
+		3D897FC5BFFBD96E239681F7 /* WXApiObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9867EDE6478BBDCA5C3C2E98 /* WXApiObject.h */; };
+		6B66E006ACCC6F3BBCC609E5 /* Pods-WeChatSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DF0B14370C59ED50A7877C97 /* Pods-WeChatSDK-dummy.m */; };
+		B48CCFA133043ABC6DECBD1B /* WXApi.h in Headers */ = {isa = PBXBuildFile; fileRef = B74593075A6FF8C01D5A6A0E /* WXApi.h */; };
+		C78995DF16FD62CA80B4F434 /* Pods-WeChatSDK-WeChatSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C78CFA17361C9691376D0126 /* Pods-WeChatSDK-WeChatSDK-dummy.m */; };
+		CF7350FA33319AED0A305DFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02FD467873221EDF602D7C3 /* Foundation.framework */; };
+		DD8BB8B74527FCF7239389C7 /* WXApi.h in Headers */ = {isa = PBXBuildFile; fileRef = B74593075A6FF8C01D5A6A0E /* WXApi.h */; };
+		E1BDDED1063D5A214E67AA16 /* Pods-Tests-WeChatSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B57185FCF79C283FEC9C28B4 /* Pods-Tests-WeChatSDK-dummy.m */; };
+		E21824EC6367A2F136C03AB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02FD467873221EDF602D7C3 /* Foundation.framework */; };
+		E44302E5155C242948DCD0D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02FD467873221EDF602D7C3 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3B01DBD70BD43A6DCE07EFA6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 714D62A1869668A26754A22E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2DA49C1AB50E14907C7101B5;
+			remoteInfo = "Pods-WeChatSDK-WeChatSDK";
+		};
+		D3678C097DCC4E1D3C1EA92A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 714D62A1869668A26754A22E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C498A2550A3D6BF29F13B300;
+			remoteInfo = "Pods-Tests-WeChatSDK";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		247572C283FC8B79B189FD90 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D13D699DED98ACD21997ACD /* Pods-WeChatSDK-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WeChatSDK-resources.sh"; sourceTree = "<group>"; };
+		2F9C904A59DD909834B51FEE /* Pods-WeChatSDK-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WeChatSDK-environment.h"; sourceTree = "<group>"; };
+		33887543BC271CC3F0A2F1A3 /* Pods-Tests-WeChatSDK-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests-WeChatSDK-Private.xcconfig"; sourceTree = "<group>"; };
+		3499B5F09B621519EC4AFD41 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		43E45238F99C719AF17966E5 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
+		4767083C40E7C8D1D1E8F00C /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		6947327F1049E21BB9D9A6CD /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
+		743B6A40EE814B88EA1DC3BA /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
+		7C96F4F7E5DD0C1BEF954A2C /* libPods-Tests-WeChatSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-WeChatSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D6F1A703933053810468FDA /* libPods-WeChatSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeChatSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8287A0031E25C4943AE858E6 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
+		90FA5995813F687C252CC023 /* Pods-WeChatSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WeChatSDK.release.xcconfig"; sourceTree = "<group>"; };
+		9867EDE6478BBDCA5C3C2E98 /* WXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
+		9B2DE412DB47D3EB3C6A1BF8 /* Pods-WeChatSDK-WeChatSDK.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChatSDK-WeChatSDK.xcconfig"; path = "../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK.xcconfig"; sourceTree = "<group>"; };
+		A02FD467873221EDF602D7C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		A470F30E5DEB4D5DEBAB1EBA /* Pods-Tests-WeChatSDK.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests-WeChatSDK.xcconfig"; sourceTree = "<group>"; };
+		AD07A880D35D23349CBE4666 /* Pods-WeChatSDK-WeChatSDK-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeChatSDK-WeChatSDK-Private.xcconfig"; path = "../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-Private.xcconfig"; sourceTree = "<group>"; };
+		B57185FCF79C283FEC9C28B4 /* Pods-Tests-WeChatSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-WeChatSDK-dummy.m"; sourceTree = "<group>"; };
+		B74593075A6FF8C01D5A6A0E /* WXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
+		BE5A6AD3130759AF115572B3 /* Pods-WeChatSDK-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WeChatSDK-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C78CFA17361C9691376D0126 /* Pods-WeChatSDK-WeChatSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-WeChatSDK-WeChatSDK-dummy.m"; path = "../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-dummy.m"; sourceTree = "<group>"; };
+		D1706EBDF520039EE614969B /* libPods-WeChatSDK-WeChatSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeChatSDK-WeChatSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBAD91D1B0A7FC617D37625F /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
+		DF0B14370C59ED50A7877C97 /* Pods-WeChatSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WeChatSDK-dummy.m"; sourceTree = "<group>"; };
+		E0A077378CDFF35B643B9C9A /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		E1007947A3C6C39FBBD608A6 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E982C04FAEC13A885C3A2FB6 /* Pods-Tests-WeChatSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-WeChatSDK-prefix.pch"; sourceTree = "<group>"; };
+		ED7AB7D102567B490CE3826B /* Pods-WeChatSDK-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WeChatSDK-acknowledgements.plist"; sourceTree = "<group>"; };
+		F7E65349B427193B9C5B5280 /* libWeChatSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeChatSDK.a; path = WeChatSDK/libWeChatSDK.a; sourceTree = "<group>"; };
+		F8774936D5C13DFC04E41D6D /* Pods-WeChatSDK-WeChatSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-WeChatSDK-WeChatSDK-prefix.pch"; path = "../Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch"; sourceTree = "<group>"; };
+		F89F41C83A50DFB57660106E /* Pods-WeChatSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WeChatSDK.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A185A1E83EA5AA0B215F628 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				08C8A0B4750FC4AB7166BC5B /* Foundation.framework in Frameworks */,
+				346F4C88096FD5EF5B664E82 /* SystemConfiguration.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A24F7B7D29E44830438C137 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E44302E5155C242948DCD0D8 /* Foundation.framework in Frameworks */,
+				310CBBCC2CAE0E7D7B64F0BD /* SystemConfiguration.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8A9E9A87A0630173A21DC7E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF7350FA33319AED0A305DFB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2EE63FA409502D371A8EA7C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21824EC6367A2F136C03AB1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0965CBC2D67D4F6719874BAE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1007947A3C6C39FBBD608A6 /* libPods-Tests.a */,
+				7C96F4F7E5DD0C1BEF954A2C /* libPods-Tests-WeChatSDK.a */,
+				7D6F1A703933053810468FDA /* libPods-WeChatSDK.a */,
+				D1706EBDF520039EE614969B /* libPods-WeChatSDK-WeChatSDK.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0E98A77375D18CAF5EADD13B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A470F30E5DEB4D5DEBAB1EBA /* Pods-Tests-WeChatSDK.xcconfig */,
+				33887543BC271CC3F0A2F1A3 /* Pods-Tests-WeChatSDK-Private.xcconfig */,
+				B57185FCF79C283FEC9C28B4 /* Pods-Tests-WeChatSDK-dummy.m */,
+				E982C04FAEC13A885C3A2FB6 /* Pods-Tests-WeChatSDK-prefix.pch */,
+				9B2DE412DB47D3EB3C6A1BF8 /* Pods-WeChatSDK-WeChatSDK.xcconfig */,
+				AD07A880D35D23349CBE4666 /* Pods-WeChatSDK-WeChatSDK-Private.xcconfig */,
+				C78CFA17361C9691376D0126 /* Pods-WeChatSDK-WeChatSDK-dummy.m */,
+				F8774936D5C13DFC04E41D6D /* Pods-WeChatSDK-WeChatSDK-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/Pods-Tests-WeChatSDK";
+			sourceTree = "<group>";
+		};
+		494591D2F272DCC252C76A4E = {
+			isa = PBXGroup;
+			children = (
+				3499B5F09B621519EC4AFD41 /* Podfile */,
+				6B709CE0FC42E211BF7E5800 /* Development Pods */,
+				58511B4AE78127F6D2F4496D /* Frameworks */,
+				0965CBC2D67D4F6719874BAE /* Products */,
+				AFCAEE45258E5C96EA5AE17A /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		58511B4AE78127F6D2F4496D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F046D465512B75C72981A14E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6B709CE0FC42E211BF7E5800 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FE1382271D633F9ACCCCB3A7 /* WeChatSDK */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		8BD2A107F29662832AD6834B /* Pods-WeChatSDK */ = {
+			isa = PBXGroup;
+			children = (
+				BE5A6AD3130759AF115572B3 /* Pods-WeChatSDK-acknowledgements.markdown */,
+				ED7AB7D102567B490CE3826B /* Pods-WeChatSDK-acknowledgements.plist */,
+				DF0B14370C59ED50A7877C97 /* Pods-WeChatSDK-dummy.m */,
+				2F9C904A59DD909834B51FEE /* Pods-WeChatSDK-environment.h */,
+				2D13D699DED98ACD21997ACD /* Pods-WeChatSDK-resources.sh */,
+				F89F41C83A50DFB57660106E /* Pods-WeChatSDK.debug.xcconfig */,
+				90FA5995813F687C252CC023 /* Pods-WeChatSDK.release.xcconfig */,
+			);
+			name = "Pods-WeChatSDK";
+			path = "Target Support Files/Pods-WeChatSDK";
+			sourceTree = "<group>";
+		};
+		96E06B3A7026B2714E78DA1D /* WeChatSDK */ = {
+			isa = PBXGroup;
+			children = (
+				B74593075A6FF8C01D5A6A0E /* WXApi.h */,
+				9867EDE6478BBDCA5C3C2E98 /* WXApiObject.h */,
+			);
+			path = WeChatSDK;
+			sourceTree = "<group>";
+		};
+		AFCAEE45258E5C96EA5AE17A /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B80C69047C4B84BD45BB5C35 /* Pods-Tests */,
+				8BD2A107F29662832AD6834B /* Pods-WeChatSDK */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		B697D7CAA06171374A6F7431 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F7E65349B427193B9C5B5280 /* libWeChatSDK.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B80C69047C4B84BD45BB5C35 /* Pods-Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4767083C40E7C8D1D1E8F00C /* Pods-Tests-acknowledgements.markdown */,
+				E0A077378CDFF35B643B9C9A /* Pods-Tests-acknowledgements.plist */,
+				743B6A40EE814B88EA1DC3BA /* Pods-Tests-dummy.m */,
+				DBAD91D1B0A7FC617D37625F /* Pods-Tests-environment.h */,
+				6947327F1049E21BB9D9A6CD /* Pods-Tests-resources.sh */,
+				247572C283FC8B79B189FD90 /* Pods-Tests.debug.xcconfig */,
+				43E45238F99C719AF17966E5 /* Pods-Tests.release.xcconfig */,
+			);
+			name = "Pods-Tests";
+			path = "Target Support Files/Pods-Tests";
+			sourceTree = "<group>";
+		};
+		F046D465512B75C72981A14E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				A02FD467873221EDF602D7C3 /* Foundation.framework */,
+				8287A0031E25C4943AE858E6 /* SystemConfiguration.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		FE1382271D633F9ACCCCB3A7 /* WeChatSDK */ = {
+			isa = PBXGroup;
+			children = (
+				B697D7CAA06171374A6F7431 /* Frameworks */,
+				0E98A77375D18CAF5EADD13B /* Support Files */,
+				96E06B3A7026B2714E78DA1D /* WeChatSDK */,
+			);
+			name = WeChatSDK;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		E6EA7FF2D0D84042D096D77E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B48CCFA133043ABC6DECBD1B /* WXApi.h in Headers */,
+				3D897FC5BFFBD96E239681F7 /* WXApiObject.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F2AFD04F529108F2AFC29E00 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD8BB8B74527FCF7239389C7 /* WXApi.h in Headers */,
+				394204DE1D0F4D4B735E5BF7 /* WXApiObject.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2DA49C1AB50E14907C7101B5 /* Pods-WeChatSDK-WeChatSDK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1317314B9195B1A92775D341 /* Build configuration list for PBXNativeTarget "Pods-WeChatSDK-WeChatSDK" */;
+			buildPhases = (
+				AD5786818A1AAE8F74116CE7 /* Sources */,
+				8A185A1E83EA5AA0B215F628 /* Frameworks */,
+				F2AFD04F529108F2AFC29E00 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-WeChatSDK-WeChatSDK";
+			productName = "Pods-WeChatSDK-WeChatSDK";
+			productReference = D1706EBDF520039EE614969B /* libPods-WeChatSDK-WeChatSDK.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		62947F6CBB663B425B5DDB45 /* Pods-Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA73AC5DB2DFBED408402EFC /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
+			buildPhases = (
+				C29D92940892EAFF5DC88ABE /* Sources */,
+				A8A9E9A87A0630173A21DC7E /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				33FEB17382B0BBC968628CC8 /* PBXTargetDependency */,
+			);
+			name = "Pods-Tests";
+			productName = "Pods-Tests";
+			productReference = E1007947A3C6C39FBBD608A6 /* libPods-Tests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		C498A2550A3D6BF29F13B300 /* Pods-Tests-WeChatSDK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C831FE99878E3503380C7F59 /* Build configuration list for PBXNativeTarget "Pods-Tests-WeChatSDK" */;
+			buildPhases = (
+				19C29B69C98B9ED8166A98DA /* Sources */,
+				9A24F7B7D29E44830438C137 /* Frameworks */,
+				E6EA7FF2D0D84042D096D77E /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-Tests-WeChatSDK";
+			productName = "Pods-Tests-WeChatSDK";
+			productReference = 7C96F4F7E5DD0C1BEF954A2C /* libPods-Tests-WeChatSDK.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		EA99D92BBE88FF04268590A7 /* Pods-WeChatSDK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 711EF34232DABFD48A22979E /* Build configuration list for PBXNativeTarget "Pods-WeChatSDK" */;
+			buildPhases = (
+				8A05E5E70A7A4649FF8766C7 /* Sources */,
+				E2EE63FA409502D371A8EA7C /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ADCC3A4809A8C52A13AD2B5A /* PBXTargetDependency */,
+			);
+			name = "Pods-WeChatSDK";
+			productName = "Pods-WeChatSDK";
+			productReference = 7D6F1A703933053810468FDA /* libPods-WeChatSDK.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		714D62A1869668A26754A22E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 9EB61E3DE5E3BFE894E315FA /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 494591D2F272DCC252C76A4E;
+			productRefGroup = 0965CBC2D67D4F6719874BAE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				62947F6CBB663B425B5DDB45 /* Pods-Tests */,
+				C498A2550A3D6BF29F13B300 /* Pods-Tests-WeChatSDK */,
+				EA99D92BBE88FF04268590A7 /* Pods-WeChatSDK */,
+				2DA49C1AB50E14907C7101B5 /* Pods-WeChatSDK-WeChatSDK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		19C29B69C98B9ED8166A98DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1BDDED1063D5A214E67AA16 /* Pods-Tests-WeChatSDK-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A05E5E70A7A4649FF8766C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B66E006ACCC6F3BBCC609E5 /* Pods-WeChatSDK-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD5786818A1AAE8F74116CE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C78995DF16FD62CA80B4F434 /* Pods-WeChatSDK-WeChatSDK-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C29D92940892EAFF5DC88ABE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2796B3AE264025E36B2643FF /* Pods-Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		33FEB17382B0BBC968628CC8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Tests-WeChatSDK";
+			target = C498A2550A3D6BF29F13B300 /* Pods-Tests-WeChatSDK */;
+			targetProxy = D3678C097DCC4E1D3C1EA92A /* PBXContainerItemProxy */;
+		};
+		ADCC3A4809A8C52A13AD2B5A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-WeChatSDK-WeChatSDK";
+			target = 2DA49C1AB50E14907C7101B5 /* Pods-WeChatSDK-WeChatSDK */;
+			targetProxy = 3B01DBD70BD43A6DCE07EFA6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		065F185418927116F3DA3170 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33887543BC271CC3F0A2F1A3 /* Pods-Tests-WeChatSDK-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-WeChatSDK/Pods-Tests-WeChatSDK-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1ADE0D340CDCA05DE6DD5628 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90FA5995813F687C252CC023 /* Pods-WeChatSDK.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		2018442BFC940B241443AA84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AD07A880D35D23349CBE4666 /* Pods-WeChatSDK-WeChatSDK-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		28BC85456ABE88101AA3F1E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5446CA4F3F634E891B6B24C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AD07A880D35D23349CBE4666 /* Pods-WeChatSDK-WeChatSDK-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-WeChatSDK-WeChatSDK/Pods-WeChatSDK-WeChatSDK-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		84A186F5517A9B7D1F05A74C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43E45238F99C719AF17966E5 /* Pods-Tests.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		A3C3853C403E070A1E3BBAB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33887543BC271CC3F0A2F1A3 /* Pods-Tests-WeChatSDK-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-WeChatSDK/Pods-Tests-WeChatSDK-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		A7C781A8E43C3B8D7D1D870D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		B218A5BA20A8FB1471BBD326 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F89F41C83A50DFB57660106E /* Pods-WeChatSDK.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		F39F7384F9DFB6DDA23632A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 247572C283FC8B79B189FD90 /* Pods-Tests.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1317314B9195B1A92775D341 /* Build configuration list for PBXNativeTarget "Pods-WeChatSDK-WeChatSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2018442BFC940B241443AA84 /* Debug */,
+				5446CA4F3F634E891B6B24C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		711EF34232DABFD48A22979E /* Build configuration list for PBXNativeTarget "Pods-WeChatSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B218A5BA20A8FB1471BBD326 /* Debug */,
+				1ADE0D340CDCA05DE6DD5628 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9EB61E3DE5E3BFE894E315FA /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A7C781A8E43C3B8D7D1D870D /* Debug */,
+				28BC85456ABE88101AA3F1E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C831FE99878E3503380C7F59 /* Build configuration list for PBXNativeTarget "Pods-Tests-WeChatSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				065F185418927116F3DA3170 /* Debug */,
+				A3C3853C403E070A1E3BBAB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA73AC5DB2DFBED408402EFC /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F39F7384F9DFB6DDA23632A9 /* Debug */,
+				84A186F5517A9B7D1F05A74C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 714D62A1869668A26754A22E /* Project object */;
+}

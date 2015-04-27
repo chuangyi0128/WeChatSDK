@@ -19,9 +19,8 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '5.0'
   s.requires_arc = true
-  s.ios.vendored_library = 'WeChatSDK/libWeChatSDK.a'
-
+  s.vendored_libraries = 'WeChatSDK/libWeChatSDK.a'
   s.source_files = 'WeChatSDK'
-  s.frameworks = 'SystemConfiguration','CoreGraphics','CoreTelephony'
-  s.libraries = 'z','sqlite3'
+  s.frameworks = 'SystemConfiguration'
+  s.libraries = 'stdc++','z','sqlite3.0'
 end

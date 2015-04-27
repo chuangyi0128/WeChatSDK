@@ -1,5 +1,5 @@
 PODS:
-  - WeChatSDK (1.5.0)
+  - WeChatSDK (1.5.1)
 
 DEPENDENCIES:
   - WeChatSDK (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  WeChatSDK: e2dc899016ecee79a1eb8088841734d73a05310c
+  WeChatSDK: 4b6fe252108a252825f974d45cde6eb0c85f4752
 
-COCOAPODS: 0.34.4
+COCOAPODS: 0.36.0

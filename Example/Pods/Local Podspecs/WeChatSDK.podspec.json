@@ -1,0 +1,26 @@
+{
+  "name": "WeChatSDK",
+  "version": "1.5.1",
+  "summary": "WeChatSDK",
+  "description": "WeChat SDK",
+  "homepage": "https://github.com/chuangyi0128/WeChatSDK",
+  "license": "MIT",
+  "authors": {
+    "SongLi": "chuangyi0128@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chuangyi0128/WeChatSDK.git",
+    "tag": "1.5.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "vendored_libraries": "WeChatSDK/libWeChatSDK.a",
+  "source_files": "WeChatSDK",
+  "frameworks": "SystemConfiguration",
+  "libraries": [
+    "z",
+    "sqlite3.0"
+  ]
+}
