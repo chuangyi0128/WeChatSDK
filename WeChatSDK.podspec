@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "WeChatSDK"
-  s.version          = "1.5.0"
+  s.version          = "1.5.1"
   s.summary          = "WeChatSDK"
   s.description      = "WeChat SDK"
   s.homepage         = "https://github.com/chuangyi0128/WeChatSDK"
@@ -22,4 +22,6 @@ Pod::Spec.new do |s|
   s.ios.vendored_library = 'WeChatSDK/libWeChatSDK.a'
 
   s.source_files = 'WeChatSDK'
+  s.frameworks = 'SystemConfiguration','CoreGraphics','CoreTelephony'
+  s.libraries = 'z','sqlite3'
 end
